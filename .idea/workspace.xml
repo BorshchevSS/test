@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Project_PyCharm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_19_Lesson1_Introduction/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_19_Lesson1_Introduction/19.08.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_19_Lesson1_Introduction/Z3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_19_Lesson1_Introduction/Z3_cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_09_HW_Введение в Python/Z1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Обработка ошибок при вводе данных.py" afterDir="false" />
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="rename">
+      <change afterPath="$PROJECT_DIR$/2025_08_21_Lesson2_Списки/Z1_L2_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_08_21_Lesson2_Списки/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_08_21_Lesson2_Списки/list_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_09_HW_Введение в Python/Z2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_11_HW_Списки(list)/Z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_11_HW_Списки(list)/Z2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_09_09_HW_Введение в Python/Z1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_09_09_HW_Введение в Python/Z1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BorshchevSS"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BorshchevSS/test.git",
+    "accountId": "73dd8cf4-971f-4ab2-95df-aac3520e1316"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -44,27 +52,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3_cycle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/Project_PyCharm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1.executor": "Run",
+    "Python.Z1 (1).executor": "Run",
+    "Python.Z1.executor": "Run",
+    "Python.Z1_L2 (1).executor": "Run",
+    "Python.Z1_L2.executor": "Run",
+    "Python.Z1_L2_v2.executor": "Run",
+    "Python.Z2 (1).executor": "Run",
+    "Python.Z2.executor": "Run",
+    "Python.Z3.executor": "Run",
+    "Python.Z3_cycle.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.list_2.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Admin/Documents/Project_PyCharm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Documents\Project_PyCharm" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_08_19_Lesson1_Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Z3_cycle">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Z2 (1)">
+    <configuration name="Z1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_08_19_Lesson1_Introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_09_HW_Введение в Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_08_19_Lesson1_Introduction/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_09_HW_Введение в Python/Z1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z1_L2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_08_19_Lesson1_Introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_08_21_Lesson2_Списки" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_08_19_Lesson1_Introduction/Z3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_08_21_Lesson2_Списки/Z1_L2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z3_cycle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z1_L2_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_08_19_Lesson1_Introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_08_21_Lesson2_Списки" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_08_19_Lesson1_Introduction/Z3_cycle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_08_21_Lesson2_Списки/Z1_L2_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,11 +156,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_11_HW_Списки(list)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_11_HW_Списки(list)/Z2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Z2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_PyCharm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_09_HW_Введение в Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_09_HW_Введение в Python/Z2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,10 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Z3_cycle" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.Z3" />
-        <item itemvalue="Python.1" />
+        <item itemvalue="Python.Z2 (1)" />
+        <item itemvalue="Python.Z1_L2" />
+        <item itemvalue="Python.Z2" />
+        <item itemvalue="Python.Z1_L2_v2" />
+        <item itemvalue="Python.Z1" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +216,44 @@
       <option name="presentableId" value="Default" />
       <updated>1755603867378</updated>
     </task>
+    <task id="LOCAL-00001" summary="ДЗ№1">
+      <option name="closed" value="true" />
+      <created>1755703322398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755703322398</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ДЗ№1">
+      <option name="closed" value="true" />
+      <created>1755703351576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755703351576</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ДЗ№1">
+      <option name="closed" value="true" />
+      <created>1755787050820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755787050820</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rename">
+      <option name="closed" value="true" />
+      <created>1755787134252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755787134252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ДЗ№1" />
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
   </component>
 </project>
