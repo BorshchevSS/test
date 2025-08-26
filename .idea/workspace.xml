@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="rename">
-      <change afterPath="$PROJECT_DIR$/2025_08_21_Lesson2_Списки/Z1_L2_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_21_Lesson2_Списки/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_21_Lesson2_Списки/list_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_09_HW_Введение в Python/Z2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_11_HW_Списки(list)/Z1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_11_HW_Списки(list)/Z2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_09_09_HW_Введение в Python/Z1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_09_09_HW_Введение в Python/Z1.py" afterDir="false" />
-    </list>
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="rename" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +239,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755787134252</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="rename">
+      <option name="closed" value="true" />
+      <created>1756186941960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756186941960</updated>
+    </task>
+    <task id="LOCAL-00006" summary="rename">
+      <option name="closed" value="true" />
+      <created>1756186956663</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756186956663</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
