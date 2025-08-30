@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="rename">
-      <change afterPath="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Z1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Z2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Z3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Множества_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/СписковоеВключение.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/СтроковыеТипыДанных.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_11_HW_Списки(list)/Z3.py" afterDir="false" />
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="DZ2">
+      <change afterPath="$PROJECT_DIR$/2025_08_28_L4_Множества, Словари, Картежи/Z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_08_28_L4_Множества, Словари, Картежи/Z2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_08_28_L4_Множества, Словари, Картежи/Z3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_08_28_L4_Множества, Словари, Картежи/Z4_1_Пузырьковый метод сортировки(сравнение соседних элементов).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_08_28_L4_Множества, Словари, Картежи/Картеж(список с неизменяемыми значениями).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_08_28_L4_Множества, Словари, Картежи/Словари(Ключ_Значение).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_16_HW_Строки/Z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_16_HW_Строки/Z2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_16_HW_Строки/Z3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_16_HW_Строки/Z4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_16_HW_Строки/Перемешиваем список.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Множества_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Множества_set.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "BorshchevSS"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BorshchevSS&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/BorshchevSS/test.git",
-    "accountId": "73dd8cf4-971f-4ab2-95df-aac3520e1316"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BorshchevSS/test.git&quot;,
+    &quot;accountId&quot;: &quot;73dd8cf4-971f-4ab2-95df-aac3520e1316&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -64,12 +70,21 @@
     "Python.Z2 (1).executor": "Run",
     "Python.Z2.executor": "Run",
     "Python.Z3 (1).executor": "Run",
+    "Python.Z3 (2).executor": "Run",
     "Python.Z3.executor": "Run",
     "Python.Z3_cycle.executor": "Run",
+    "Python.Z4.executor": "Run",
+    "Python.Z4_1.executor": "Run",
+    "Python.Z4_1_Пузырьковый метод сортировки(сравнение соседних элементов).executor": "Run",
     "Python.list.executor": "Run",
     "Python.list_2.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.test (1).executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.Картеж(список с неизменяемыми значениями).executor": "Run",
     "Python.Множества_set.executor": "Run",
+    "Python.Словари(Ключ_Значение) (1).executor": "Run",
+    "Python.Словари.executor": "Run",
     "Python.Списковое включение.executor": "Run",
     "Python.СписковоеВключение.executor": "Run",
     "Python.Спусковое включение.executor": "Run",
@@ -87,7 +102,29 @@
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_08_19_Lesson1_Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Множества_set">
+  <component name="RunManager" selected="Python.Z4">
+    <configuration name="Перемешиваем список" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_PyCharm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_16_HW_Строки" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_09_16_HW_Строки\Перемешиваем список.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Z1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
@@ -97,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_16_HW_Строки" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Z1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_16_HW_Строки/Z1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,33 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_16_HW_Строки" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Z2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Z3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_PyCharm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Z3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_16_HW_Строки/Z2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_11_HW_Списки(list)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_16_HW_Строки" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_11_HW_Списки(list)/Z3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_16_HW_Строки/Z3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Множества_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_16_HW_Строки" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Множества_set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_16_HW_Строки/Z4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,9 +215,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Множества_set" />
+        <item itemvalue="Python.Z4" />
+        <item itemvalue="Python.Перемешиваем список" />
         <item itemvalue="Python.Z3" />
-        <item itemvalue="Python.Z3 (1)" />
         <item itemvalue="Python.Z2" />
         <item itemvalue="Python.Z1" />
       </list>
@@ -279,12 +294,29 @@
       <option name="project" value="LOCAL" />
       <updated>1756186998965</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="DZ2">
+      <option name="closed" value="true" />
+      <created>1756226524296</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756226524296</updated>
+    </task>
+    <task id="LOCAL-00009" summary="DZ2">
+      <option name="closed" value="true" />
+      <created>1756226554981</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756226554981</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ДЗ№1" />
     <MESSAGE value="rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+    <MESSAGE value="DZ2" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ2" />
   </component>
 </project>
