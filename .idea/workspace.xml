@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="DZ_2025_09_16_">
-      <change afterPath="$PROJECT_DIR$/2025_09_18_HW_Множества и словари/Z1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_18_HW_Множества и словари/Z2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_18_HW_Множества и словари/test.py" afterDir="false" />
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="DZ_2025_09_18_">
+      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/3+.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/3. playlist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/chess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/chess_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/map - применение функции к элементам массива или списка.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/sort_play.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/Сортировка с помощью lambda функции.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_23_HW_Файлы/Z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_23_HW_Файлы/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_req.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +59,8 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Плейлист с сортировкой.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
     &quot;Python.Z1 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.Z1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Z1_L2 (1).executor&quot;: &quot;Run&quot;,
@@ -66,15 +75,20 @@
     &quot;Python.Z4.executor&quot;: &quot;Run&quot;,
     &quot;Python.Z4_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Z4_1_Пузырьковый метод сортировки(сравнение соседних элементов).executor&quot;: &quot;Run&quot;,
+    &quot;Python.chess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chess_test.executor&quot;: &quot;Run&quot;,
     &quot;Python.list.executor&quot;: &quot;Run&quot;,
     &quot;Python.list_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort_play (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_req.executor&quot;: &quot;Run&quot;,
     &quot;Python.Картеж(список с неизменяемыми значениями).executor&quot;: &quot;Run&quot;,
     &quot;Python.Множества_set.executor&quot;: &quot;Run&quot;,
     &quot;Python.Словари(Ключ_Значение) (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.Словари.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Сортировка с помощью lambda функции.executor&quot;: &quot;Run&quot;,
     &quot;Python.Списковое включение.executor&quot;: &quot;Run&quot;,
     &quot;Python.СписковоеВключение.executor&quot;: &quot;Run&quot;,
     &quot;Python.Спусковое включение.executor&quot;: &quot;Run&quot;,
@@ -91,9 +105,12 @@
       <recent name="C:\Users\Admin\Documents\Project_PyCharm" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_08_19_Lesson1_Introduction" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_23_HW_Файлы\0_Archive" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Z2">
-    <configuration name="Z1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Z1">
+    <configuration name="Z1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_18_HW_Множества и словари" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_23_HW_Файлы" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_18_HW_Множества и словари/Z1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_23_HW_Файлы/Z1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_18_HW_Множества и словари" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_09_L6_lambda функции" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_18_HW_Множества и словари/Z2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_09_L6_lambda функции/chess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chess_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_16_HW_Строки" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_09_L6_lambda функции" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_16_HW_Строки/Z4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_09_L6_lambda функции/chess_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Множества_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sort_play (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_09_L6_lambda функции" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_08_26_L3_СписковоеВключение, Строки, Множества/Множества_set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_09_L6_lambda функции/sort_play.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_18_HW_Множества и словари" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_23_HW_Файлы" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_18_HW_Множества и словари/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_23_HW_Файлы/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Z2" />
-        <item itemvalue="Python.Z1 (1)" />
+        <item itemvalue="Python.Z1" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Множества_set" />
-        <item itemvalue="Python.Z4" />
+        <item itemvalue="Python.chess_test" />
+        <item itemvalue="Python.chess" />
+        <item itemvalue="Python.sort_play (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756563832512</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="DZ_2025_09_18_">
+      <option name="closed" value="true" />
+      <created>1756660809619</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1756660809619</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -325,6 +350,7 @@
     <MESSAGE value="DZ2" />
     <MESSAGE value="DZ_2025_09_16" />
     <MESSAGE value="DZ_2025_09_16_" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ_2025_09_16_" />
+    <MESSAGE value="DZ_2025_09_18_" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ_2025_09_18_" />
   </component>
 </project>
