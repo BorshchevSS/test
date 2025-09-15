@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="DZ_2025_09_18_">
-      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/3+.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/3. playlist.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/chess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/chess_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/map - применение функции к элементам массива или списка.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/sort_play.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_09_L6_lambda функции/Сортировка с помощью lambda функции.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_23_HW_Файлы/Z1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_23_HW_Файлы/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_req.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_30_HW_Файлы/Z1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +100,29 @@
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_23_HW_Файлы\0_Archive" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Z1">
+  <component name="RunManager" selected="Python.Z1 (1)">
+    <configuration name="Z1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_PyCharm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_30_HW_Файлы" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_30_HW_Файлы/Z1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Z1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
@@ -176,28 +189,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sort_play (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_PyCharm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_09_L6_lambda функции" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_09_L6_lambda функции/sort_play.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
@@ -222,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Z1 (1)" />
         <item itemvalue="Python.Z1" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.chess_test" />
         <item itemvalue="Python.chess" />
-        <item itemvalue="Python.sort_play (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +332,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756660809619</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="DZ_2025_09_18_">
+      <option name="closed" value="true" />
+      <created>1757610377064</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757610377064</updated>
+    </task>
+    <task id="LOCAL-00014" summary="DZ_2025_09_18_">
+      <option name="closed" value="true" />
+      <created>1757610404014</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757610404014</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -350,6 +357,7 @@
     <MESSAGE value="DZ2" />
     <MESSAGE value="DZ_2025_09_16" />
     <MESSAGE value="DZ_2025_09_16_" />
+    <MESSAGE value="DZ_2025_09_23" />
     <MESSAGE value="DZ_2025_09_18_" />
     <option name="LAST_COMMIT_MESSAGE" value="DZ_2025_09_18_" />
   </component>
