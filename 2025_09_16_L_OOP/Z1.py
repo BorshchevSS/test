@@ -1,0 +1,29 @@
+class Employee:
+
+    def __init__(self, name, position, salary):
+        self.name = name
+        self.position = position
+        self.salary = salary
+
+    def get_info(self):
+        return f"Name: {self.name}, Position: {self.position}, Salary: {self.salary}"
+
+
+class Manager(Employee):
+    def __init__(self, name, position, salary, team_size):
+        super().__init__(name, position, salary)
+        self.team_size = team_size
+
+    def get_info(self):
+        return super().get_info() + f"Team Size: {self.team_size}"
+
+class Developer(Employee):
+    def __init__(self, name, position, salary, pr_language):
+        super().__init__(name, position, salary)
+        self.pr_language = pr_language
+
+    def write_code(self):
+        return f"Напишу сод на {self.pr_language}"
+
+class TechLead(Manager, Developer):
+    def __init__(self, name, position, salary, team_size, pr_language):
