@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="DZ_2025_09_30_">
-      <change afterPath="$PROJECT_DIR$/2025_09_11_L_Шахматы/shahmaty_v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_16_L_OOP/1_Создание класса.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_16_L_OOP/2_Создание класса2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_16_L_OOP/3_Наследование, полиморфизм, инкапсуляция.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_16_L_OOP/OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_16_L_OOP/Z1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_16_L_OOP/наследование.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_02_Функции/labyrinth.py" afterDir="false" />
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="Вопрос по xml">
+      <change afterPath="$PROJECT_DIR$/2025_09_16,18_L_OOP/Z1_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_16,18_L_OOP/Z3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_16,18_L_OOP/no_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_16,18_L_OOP/oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_18_L_Полиморфизм/Z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_09_18_L_Полиморфизм/Магические методы, переопределение методов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/функция проверяет на принадлежность определённому классу.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_09_16_L_OOP/1_Создание класса.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_09_16,18_L_OOP/1_Создание класса.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_09_16_L_OOP/2_Создание класса2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_09_16,18_L_OOP/2_Создание класса2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_09_16_L_OOP/3_Наследование, полиморфизм, инкапсуляция.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_09_16,18_L_OOP/3_Наследование, полиморфизм, инкапсуляция.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_09_16_L_OOP/OOP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_09_16_L_OOP/Z1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_09_16,18_L_OOP/Z1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_09_16_L_OOP/наследование.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/2025_09_16,18_L_OOP/наследование.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_10_02_Функции/labyrinth.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_10_02_Функции/labyrinth.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,59 +59,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.1.executor": "Run",
-    "Python.2025_09_11_ЧтениеДанных из XML.executor": "Run",
-    "Python.2025_09_12_Чтение данных из excel_DispName.executor": "Run",
-    "Python.2025_09_15_xml с newDispName.executor": "Run",
-    "Python.3. Плейлист с сортировкой.executor": "Run",
-    "Python.3_Наследование, полиморфизм, инкапсуляция.executor": "Run",
-    "Python.4.executor": "Run",
-    "Python.OOP.executor": "Run",
-    "Python.Z1 (1).executor": "Run",
-    "Python.Z1.executor": "Run",
-    "Python.Z1_L2 (1).executor": "Run",
-    "Python.Z1_L2.executor": "Run",
-    "Python.Z1_L2_v2.executor": "Run",
-    "Python.Z2 (1).executor": "Run",
-    "Python.Z2.executor": "Run",
-    "Python.Z3 (1).executor": "Run",
-    "Python.Z3 (2).executor": "Run",
-    "Python.Z3.executor": "Run",
-    "Python.Z3_cycle.executor": "Run",
-    "Python.Z4.executor": "Run",
-    "Python.Z4_1.executor": "Run",
-    "Python.Z4_1_Пузырьковый метод сортировки(сравнение соседних элементов).executor": "Run",
-    "Python.chess.executor": "Run",
-    "Python.chess_test.executor": "Run",
-    "Python.labyrinth.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.list_2.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.sort_play (1).executor": "Run",
-    "Python.test (1).executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test_req.executor": "Run",
-    "Python.Картеж(список с неизменяемыми значениями).executor": "Run",
-    "Python.Множества_set.executor": "Run",
-    "Python.Словари(Ключ_Значение) (1).executor": "Run",
-    "Python.Словари.executor": "Run",
-    "Python.Создание класса.executor": "Run",
-    "Python.Создание класса2.executor": "Run",
-    "Python.Сортировка с помощью lambda функции.executor": "Run",
-    "Python.Списковое включение.executor": "Run",
-    "Python.СписковоеВключение.executor": "Run",
-    "Python.Спусковое включение.executor": "Run",
-    "Python.СтроковыеТипыДанных (1).executor": "Run",
-    "Python.СтроковыеТипыДанных.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Admin/Documents/Project_PyCharm/2025_09_16_L_OOP"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2025_09_11_ЧтениеДанных из XML.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2025_09_12_Чтение данных из excel_DispName.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2025_09_15_xml с newDispName.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Плейлист с сортировкой.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_Наследование, полиморфизм, инкапсуляция.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z1_L2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z1_L2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z1_L2_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z3 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z3_cycle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z4_1_Пузырьковый метод сортировки(сравнение соседних элементов).executor&quot;: &quot;Run&quot;,
+    &quot;Python.chess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chess_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.labyrinth.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.no_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort_play (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_req.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Картеж(список с неизменяемыми значениями).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Магические методы, переопределение методов.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Множества_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Словари(Ключ_Значение) (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Словари.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Создание класса.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Создание класса2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Сортировка с помощью lambda функции.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Списковое включение.executor&quot;: &quot;Run&quot;,
+    &quot;Python.СписковоеВключение.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Спусковое включение.executor&quot;: &quot;Run&quot;,
+    &quot;Python.СтроковыеТипыДанных (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.СтроковыеТипыДанных.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/Project_PyCharm/2025_09_16_L_OOP&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_16_L_OOP" />
@@ -117,8 +125,8 @@
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_23_HW_Файлы\0_Archive" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3_Наследование, полиморфизм, инкапсуляция">
-    <configuration name="1_Создание класса" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.labyrinth">
+    <configuration name="Магические методы, переопределение методов" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_16_L_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_18_L_Полиморфизм" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_09_16_L_OOP\1_Создание класса.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_18_L_Полиморфизм/Магические методы, переопределение методов.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_Создание класса2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_16_L_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_18_L_Полиморфизм" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_09_16_L_OOP\2_Создание класса2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_18_L_Полиморфизм/Z1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_Наследование, полиморфизм, инкапсуляция" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,29 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_16_L_OOP/3_Наследование, полиморфизм, инкапсуляция.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="OOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_PyCharm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_16_L_OOP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_16_L_OOP/OOP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_16_L_OOP/Z3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,13 +214,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="no_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_PyCharm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_16_L_OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_16_L_OOP/no_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_Наследование, полиморфизм, инкапсуляция" />
-        <item itemvalue="Python.2_Создание класса2" />
-        <item itemvalue="Python.1_Создание класса" />
         <item itemvalue="Python.labyrinth" />
-        <item itemvalue="Python.OOP" />
+        <item itemvalue="Python.Z1" />
+        <item itemvalue="Python.Магические методы, переопределение методов" />
+        <item itemvalue="Python.Z3" />
+        <item itemvalue="Python.no_name" />
       </list>
     </recent_temporary>
   </component>
@@ -373,8 +381,27 @@
       <option name="project" value="LOCAL" />
       <updated>1757951786094</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Вопрос по xml">
+      <option name="closed" value="true" />
+      <created>1758194834607</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1758194834607</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ДЗ№1" />
@@ -386,6 +413,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="DZ_2025_09_18_" />
     <MESSAGE value="DZ_2025_09_30_" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ_2025_09_30_" />
+    <MESSAGE value="Вопрос по xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вопрос по xml" />
   </component>
 </project>
