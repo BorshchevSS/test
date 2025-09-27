@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 09.10.2025">
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 09.10.2025_v2">
+      <change afterPath="$PROJECT_DIR$/2025_10_15_ПерегрузкаОператоров/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_15_ПерегрузкаОператоров/Виртуальная фабрика роботов-художников.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +89,7 @@
     "Python.test.executor": "Run",
     "Python.test_req.executor": "Run",
     "Python.Абстрактные классы.executor": "Run",
+    "Python.Виртуальная фабрика роботов-художников.executor": "Run",
     "Python.Картеж(список с неизменяемыми значениями).executor": "Run",
     "Python.Магические методы, переопределение методов.executor": "Run",
     "Python.Множества_set.executor": "Run",
@@ -121,8 +124,8 @@
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_23_HW_Файлы\0_Archive" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.restaurant">
-    <configuration name="инкапсуляция" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Виртуальная фабрика роботов-художников">
+    <configuration name="Виртуальная фабрика роботов-художников" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_15_ПерегрузкаОператоров" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/инкапсуляция.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_15_ПерегрузкаОператоров/Виртуальная фабрика роботов-художников.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,28 +161,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/Z1_Система обработки заказов.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Z2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_PyCharm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/Z2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,13 +213,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_PyCharm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_15_ПерегрузкаОператоров" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_15_ПерегрузкаОператоров/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Виртуальная фабрика роботов-художников" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.restaurant" />
         <item itemvalue="Python.shahmaty_v4" />
         <item itemvalue="Python.Z1_Система обработки заказов" />
-        <item itemvalue="Python.инкапсуляция" />
-        <item itemvalue="Python.Z2" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758945738815</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ДЗ 09.10.2025_v2">
+      <option name="closed" value="true" />
+      <created>1758949043776</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1758949043776</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,6 +448,7 @@
     <MESSAGE value="ДЗ 02.10.2025" />
     <MESSAGE value="ДЗ 07.10.2025" />
     <MESSAGE value="ДЗ 09.10.2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 09.10.2025" />
+    <MESSAGE value="ДЗ 09.10.2025_v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 09.10.2025_v2" />
   </component>
 </project>
