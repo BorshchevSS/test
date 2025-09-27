@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 07.10.2025">
-      <change afterPath="$PROJECT_DIR$/2025_09_11_РДУ_Редактирую названия ветвей в СМЗУ/finish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_18_L_Полиморфизм/polimorf tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_18_L_Полиморфизм/Умный словарь_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_18_L_Полиморфизм/Умный словарь_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_23_L_Полиморфизм/Z3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/Z1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/Z1_Система обработки заказов.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/Z2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/abstract задачи.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/Абстрактные классы_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/Абстрактные классы_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/инкапсуляция задачи.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_25_L_Абстрактные классы/инкапсуляция.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_09_HW_Полиморфизм/gpt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_09_HW_Полиморфизм/restaurant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Команды для терминала.py" afterDir="false" />
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 09.10.2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -417,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758380263807</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="ДЗ 09.10.2025">
+      <option name="closed" value="true" />
+      <created>1758945738815</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1758945738815</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,6 +436,7 @@
     <MESSAGE value="Вопрос по xml" />
     <MESSAGE value="ДЗ 02.10.2025" />
     <MESSAGE value="ДЗ 07.10.2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 07.10.2025" />
+    <MESSAGE value="ДЗ 09.10.2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 09.10.2025" />
   </component>
 </project>
