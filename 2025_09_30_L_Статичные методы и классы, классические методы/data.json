@@ -1,0 +1,12 @@
+[
+  {
+    "product_id": "A101",
+    "product_name": "Laptop",
+    "stock": 15
+  },
+  {
+    "product_id": "A102",
+    "product_name": "Mouse",
+    "stock": 120
+  }
+]
