@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 15.10.2025_v2">
-      <change afterPath="$PROJECT_DIR$/2025_09_30_L_Статичные методы и классы, классические методы/Z2_Инкапсуляция_Генерация уникальных идентификаторов.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_09_30_L_Статичные методы и классы, классические методы/Универсальный анализатор данных.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_16_HW_Абстрактные классы/Z.py" afterDir="false" />
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 16.10.2025_v1">
+      <change afterPath="$PROJECT_DIR$/2025_10_09_L_Декоратор/Z2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_09_L_Декоратор/f_dec++.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_09_L_Декоратор/f_dec+.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_09_L_Декоратор/f_dec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_21_HW_Статические методы и методы класса/0_Archive/gpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_21_HW_Статические методы и методы класса/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_21_HW_Статические методы и методы класса/z_main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_08_21_Lesson2_Списки/Z1_L2_v2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +83,15 @@
     &quot;Python.chess.executor&quot;: &quot;Run&quot;,
     &quot;Python.chess_test.executor&quot;: &quot;Run&quot;,
     &quot;Python.classmethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.f_dec++.executor&quot;: &quot;Run&quot;,
+    &quot;Python.f_dec+.executor&quot;: &quot;Run&quot;,
+    &quot;Python.f_dec.executor&quot;: &quot;Run&quot;,
     &quot;Python.gpt.executor&quot;: &quot;Run&quot;,
     &quot;Python.labyrinth.executor&quot;: &quot;Run&quot;,
     &quot;Python.list.executor&quot;: &quot;Run&quot;,
     &quot;Python.list_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.metrics.executor&quot;: &quot;Run&quot;,
     &quot;Python.no_name.executor&quot;: &quot;Run&quot;,
     &quot;Python.restaurant.executor&quot;: &quot;Run&quot;,
     &quot;Python.shahmaty_v4.executor&quot;: &quot;Run&quot;,
@@ -91,6 +100,9 @@
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.test_req.executor&quot;: &quot;Run&quot;,
     &quot;Python.time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.visuallizers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.z_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.z_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.Абстрактные классы.executor&quot;: &quot;Run&quot;,
     &quot;Python.Виртуальная фабрика роботов-художников.executor&quot;: &quot;Run&quot;,
     &quot;Python.Инкапсуляция.executor&quot;: &quot;Run&quot;,
@@ -114,23 +126,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/Project_PyCharm/2025_09_25_L_Абстрактные классы&quot;
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/Project_PyCharm/2025_10_09_L_Декоратор&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_09_L_Декоратор" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_25_L_Абстрактные классы" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_18_L_Полиморфизм" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_11_РДУ_Редактирую названия ветвей в СМЗУ" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_16_L_OOP" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_11_L_Шахматы" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_21_HW_Статические методы и методы класса\0_Archive" />
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_07_L\monitoring" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_23_HW_Файлы\0_Archive" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Универсальный анализатор данных">
-    <configuration name="Универсальный анализатор данных" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.z_main">
+    <configuration name="Z2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_30_L_Статичные методы и классы, классические методы" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_09_L_Декоратор" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_30_L_Статичные методы и классы, классические методы/Универсальный анализатор данных.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_09_L_Декоратор/Z2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="f_dec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_30_Статичные методы и классы, классические методы" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_09_L_Декоратор" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_30_Статичные методы и классы, классические методы/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_09_L_Декоратор/f_dec.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="f_dec+" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_16_HW_Абстрактные классы" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_09_L_Декоратор" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_16_HW_Абстрактные классы/Z.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_09_L_Декоратор/f_dec+.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z2_Инкапсуляция_Генерация уникальных идентификаторов" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="f_dec++" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_30_L_Статичные методы и классы, классические методы" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_09_L_Декоратор" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_09_30_L_Статичные методы и классы, классические методы\Z2_Инкапсуляция_Генерация уникальных идентификаторов.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_09_L_Декоратор/f_dec++.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classmethod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="z_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_09_30_L_Статичные методы и классы, классические методы/Новая папка" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_21_HW_Статические методы и методы класса" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_09_30_L_Статичные методы и классы, классические методы/Новая папка/classmethod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_21_HW_Статические методы и методы класса/z_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Универсальный анализатор данных" />
-        <item itemvalue="Python.classmethod" />
-        <item itemvalue="Python.Z2_Инкапсуляция_Генерация уникальных идентификаторов" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.Z" />
+        <item itemvalue="Python.z_main" />
+        <item itemvalue="Python.Z2" />
+        <item itemvalue="Python.f_dec++" />
+        <item itemvalue="Python.f_dec+" />
+        <item itemvalue="Python.f_dec" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758990086458</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ДЗ 16.10.2025_v1">
+      <option name="closed" value="true" />
+      <created>1759567229020</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1759567229020</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,6 +495,7 @@
     <MESSAGE value="ДЗ 09.10.2025_v2" />
     <MESSAGE value="ДЗ 15.10.2025" />
     <MESSAGE value="ДЗ 15.10.2025_v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 15.10.2025_v2" />
+    <MESSAGE value="ДЗ 16.10.2025_v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 16.10.2025_v1" />
   </component>
 </project>
