@@ -1,0 +1,18 @@
+[
+    {
+        "func_name": "example",
+        "arguments": {
+            "args": [
+                1,
+                2
+            ],
+            "kwargs": {}
+        },
+        "call_time": "2025-10-09T17:18:34.551717",
+        "level": [
+            "info",
+            "warning",
+            "error"
+        ]
+    }
+]
