@@ -1,0 +1,1 @@
+Func: fastDuration: 0.010568618774414062Warning: 

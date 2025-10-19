@@ -1,0 +1,9 @@
+{
+    "example(3, 5, 'mul'){}": {
+        "sesult": 15,
+        "time_stamp": 1760450726.8229702,
+        "fumction": "example",
+        "args": "(3, 5, 'mul')",
+        "kwargs": "{}"
+    }
+}

@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 21.10.2025_v1">
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 02.11.2025_v1">
+      <change afterPath="$PROJECT_DIR$/2025_10_14_L_Декораторы/Декорирование класса.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_14_L_Декораторы/КэшированиеРезультатовФункции.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/Z3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/Z4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/wraps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/задачки_Z2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_30_HW_Декораторы/0_Archive/gpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_30_HW_Декораторы/Z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_30_HW_Декораторы/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,18 +99,23 @@
     &quot;Python.no_name.executor&quot;: &quot;Run&quot;,
     &quot;Python.restaurant.executor&quot;: &quot;Run&quot;,
     &quot;Python.shahmaty_v4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smart_financial_management_system.executor&quot;: &quot;Run&quot;,
     &quot;Python.sort_play (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4.executor&quot;: &quot;Run&quot;,
     &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.test_req.executor&quot;: &quot;Run&quot;,
     &quot;Python.time.executor&quot;: &quot;Run&quot;,
     &quot;Python.visuallizers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wraps.executor&quot;: &quot;Run&quot;,
     &quot;Python.z_class.executor&quot;: &quot;Run&quot;,
     &quot;Python.z_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.Абстрактные классы.executor&quot;: &quot;Run&quot;,
     &quot;Python.Виртуальная фабрика роботов-художников.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Декорирование класса.executor&quot;: &quot;Run&quot;,
     &quot;Python.Инкапсуляция.executor&quot;: &quot;Run&quot;,
     &quot;Python.Картеж(список с неизменяемыми значениями).executor&quot;: &quot;Run&quot;,
+    &quot;Python.КэшированиеРезультатовФункции.executor&quot;: &quot;Run&quot;,
     &quot;Python.Магические методы, переопределение методов.executor&quot;: &quot;Run&quot;,
     &quot;Python.Множества_set.executor&quot;: &quot;Run&quot;,
     &quot;Python.Словари(Ключ_Значение) (1).executor&quot;: &quot;Run&quot;,
@@ -132,13 +148,14 @@
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_16_L_OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_16_L_Декораторы_wraps" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_21_HW_Статические методы и методы класса\0_Archive" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_07_L\monitoring" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_23_HW_Файлы\0_Archive" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2">
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Z1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_14_L_Декораторы" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_30_HW_Декораторы" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_14_L_Декораторы/2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_30_HW_Декораторы/Z1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_09_L_Декоратор" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_09_L_Декоратор/Z2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/Z3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="f_dec+" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_09_L_Декоратор" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_09_L_Декоратор/f_dec+.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/Z4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="f_dec++" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,11 +230,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_09_L_Декоратор" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_30_HW_Декораторы" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_09_L_Декоратор/f_dec++.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_30_HW_Декораторы/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="z_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,11 +252,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_21_HW_Статические методы и методы класса" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_21_HW_Статические методы и методы класса/z_main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/task4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2" />
-        <item itemvalue="Python.z_main" />
-        <item itemvalue="Python.Z2" />
-        <item itemvalue="Python.f_dec++" />
-        <item itemvalue="Python.f_dec+" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Z1" />
+        <item itemvalue="Python.Z4" />
+        <item itemvalue="Python.task4" />
+        <item itemvalue="Python.Z3" />
       </list>
     </recent_temporary>
   </component>
@@ -465,7 +482,31 @@
       <option name="project" value="LOCAL" />
       <updated>1760177447177</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="ДЗ 02.11.2025_v1">
+      <option name="closed" value="true" />
+      <created>1760441888385</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1760441888385</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ДЗ 02.11.2025_v1">
+      <option name="closed" value="true" />
+      <created>1760441895009</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1760441895009</updated>
+    </task>
+    <task id="LOCAL-00027" summary="ДЗ 02.11.2025_v1">
+      <option name="closed" value="true" />
+      <created>1760441994420</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1760441994420</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,6 +539,7 @@
     <MESSAGE value="ДЗ 15.10.2025_v2" />
     <MESSAGE value="ДЗ 16.10.2025_v1" />
     <MESSAGE value="ДЗ 21.10.2025_v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 21.10.2025_v1" />
+    <MESSAGE value="ДЗ 02.11.2025_v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 02.11.2025_v1" />
   </component>
 </project>
