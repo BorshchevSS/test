@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 30.10.2025_v1">
-      <change afterPath="$PROJECT_DIR$/2025_11_07_HW_Задачи/Z.py" afterDir="false" />
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 07.11.2025_v2">
+      <change afterPath="$PROJECT_DIR$/2025_10_21_L_КР/ds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_23_Библиотека pytest/pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_23_Библиотека pytest/unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/Z1_deque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/Z2_defaultdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/Z3_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/collections_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/collections_defaultdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/collections_deque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Менеджер контекста(управление открытием и закрытием файлов).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UID.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_10_21_L_КР/СЭС.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_10_21_L_КР/СЭС.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,89 +59,108 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2025_09_11_ЧтениеДанных из XML.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2025_09_12_Чтение данных из excel_DispName.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2025_09_15_xml с newDispName.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Плейлист с сортировкой.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_Наследование, полиморфизм, инкапсуляция.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OOP.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1_L2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1_L2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1_L2_v2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1_Система обработки заказов.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3_cycle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z4_1_Пузырьковый метод сортировки(сравнение соседних элементов).executor&quot;: &quot;Run&quot;,
-    &quot;Python.chess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chess_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classmethod.executor&quot;: &quot;Run&quot;,
-    &quot;Python.f_dec++.executor&quot;: &quot;Run&quot;,
-    &quot;Python.f_dec+.executor&quot;: &quot;Run&quot;,
-    &quot;Python.f_dec.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gpt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.labyrinth.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.metrics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.no_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.restaurant.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shahmaty_v4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.smart_financial_management_system.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sort_play (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_req.executor&quot;: &quot;Run&quot;,
-    &quot;Python.time.executor&quot;: &quot;Run&quot;,
-    &quot;Python.visuallizers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wraps.executor&quot;: &quot;Run&quot;,
-    &quot;Python.z_class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.z_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Абстрактные классы.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Виртуальная фабрика роботов-художников.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Декорирование класса.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Инкапсуляция.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Картеж(список с неизменяемыми значениями).executor&quot;: &quot;Run&quot;,
-    &quot;Python.КэшированиеРезультатовФункции.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Магические методы, переопределение методов.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Множества_set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Словари(Ключ_Значение) (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Словари.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Создание класса.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Создание класса2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Сортировка с помощью lambda функции.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Списковое включение.executor&quot;: &quot;Run&quot;,
-    &quot;Python.СписковоеВключение.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Спусковое включение.executor&quot;: &quot;Run&quot;,
-    &quot;Python.СтроковыеТипыДанных (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.СтроковыеТипыДанных.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Умный словарь.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Умный словарь_v2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Универсальный анализатор данных.executor&quot;: &quot;Run&quot;,
-    &quot;Python.инкапсуляция.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/Project_PyCharm/2025_10_09_L_Декоратор&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for pytest.test_add.executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.2025_09_11_ЧтениеДанных из XML.executor": "Run",
+    "Python.2025_09_12_Чтение данных из excel_DispName.executor": "Run",
+    "Python.2025_09_15_xml с newDispName.executor": "Run",
+    "Python.3. Плейлист с сортировкой.executor": "Run",
+    "Python.3_Наследование, полиморфизм, инкапсуляция.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.OOP.executor": "Run",
+    "Python.UID.executor": "Run",
+    "Python.Z.executor": "Run",
+    "Python.Z1 (1).executor": "Run",
+    "Python.Z1.executor": "Run",
+    "Python.Z1_L2 (1).executor": "Run",
+    "Python.Z1_L2.executor": "Run",
+    "Python.Z1_L2_v2.executor": "Run",
+    "Python.Z1_deque.executor": "Run",
+    "Python.Z1_Система обработки заказов.executor": "Run",
+    "Python.Z2 (1).executor": "Run",
+    "Python.Z2.executor": "Run",
+    "Python.Z2_defaultdict.executor": "Run",
+    "Python.Z3 (1).executor": "Run",
+    "Python.Z3 (2).executor": "Run",
+    "Python.Z3.executor": "Run",
+    "Python.Z3_.executor": "Run",
+    "Python.Z3_cycle.executor": "Run",
+    "Python.Z3_см. tasks (1).executor": "Run",
+    "Python.Z3_см. tasks.executor": "Run",
+    "Python.Z4.executor": "Run",
+    "Python.Z4_1.executor": "Run",
+    "Python.Z4_1_Пузырьковый метод сортировки(сравнение соседних элементов).executor": "Run",
+    "Python.Z_.executor": "Run",
+    "Python.Z_римская_система_счисления.executor": "Run",
+    "Python.chess.executor": "Run",
+    "Python.chess_test.executor": "Run",
+    "Python.classmethod.executor": "Run",
+    "Python.collections_.executor": "Run",
+    "Python.collections_counter.executor": "Run",
+    "Python.collections_defaultdict.executor": "Run",
+    "Python.collections_deque.executor": "Run",
+    "Python.ds.executor": "Run",
+    "Python.f_dec++.executor": "Run",
+    "Python.f_dec+.executor": "Run",
+    "Python.f_dec.executor": "Run",
+    "Python.gpt.executor": "Run",
+    "Python.labyrinth.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.list_2.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.metrics.executor": "Run",
+    "Python.no_name.executor": "Run",
+    "Python.pytest.executor": "Run",
+    "Python.restaurant.executor": "Run",
+    "Python.shahmaty_v4.executor": "Run",
+    "Python.smart_financial_management_system.executor": "Run",
+    "Python.sort_play (1).executor": "Run",
+    "Python.task4.executor": "Run",
+    "Python.tasks (1).executor": "Run",
+    "Python.tasks (2).executor": "Run",
+    "Python.test (1).executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_req.executor": "Run",
+    "Python.time.executor": "Run",
+    "Python.visuallizers.executor": "Run",
+    "Python.wraps.executor": "Run",
+    "Python.z_class.executor": "Run",
+    "Python.z_main.executor": "Run",
+    "Python.Абстрактные классы.executor": "Run",
+    "Python.Виртуальная фабрика роботов-художников.executor": "Run",
+    "Python.Декорирование класса.executor": "Run",
+    "Python.Инкапсуляция.executor": "Run",
+    "Python.Картеж(список с неизменяемыми значениями).executor": "Run",
+    "Python.КэшированиеРезультатовФункции.executor": "Run",
+    "Python.Магические методы, переопределение методов.executor": "Run",
+    "Python.Менеджер контекста_2.executor": "Run",
+    "Python.Множества_set.executor": "Run",
+    "Python.СЭС.executor": "Run",
+    "Python.Словари(Ключ_Значение) (1).executor": "Run",
+    "Python.Словари.executor": "Run",
+    "Python.Создание класса.executor": "Run",
+    "Python.Создание класса2.executor": "Run",
+    "Python.Сортировка с помощью lambda функции.executor": "Run",
+    "Python.Списковое включение.executor": "Run",
+    "Python.СписковоеВключение.executor": "Run",
+    "Python.Спусковое включение.executor": "Run",
+    "Python.СтроковыеТипыДанных (1).executor": "Run",
+    "Python.СтроковыеТипыДанных.executor": "Run",
+    "Python.Умный словарь.executor": "Run",
+    "Python.Умный словарь_v2.executor": "Run",
+    "Python.Универсальный анализатор данных.executor": "Run",
+    "Python.инкапсуляция.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Admin/Documents/Project_PyCharm/2025_10_09_L_Декоратор"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_09_L_Декоратор" />
@@ -138,14 +170,15 @@
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_16_L_OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_28_L_Модуль Collections\0_Archive" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_16_L_Декораторы_wraps" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_21_HW_Статические методы и методы класса\0_Archive" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_07_L\monitoring" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_23_HW_Файлы\0_Archive" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Z">
-    <configuration name="Z" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ds">
+    <configuration name="Менеджер контекста_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_07_HW_Задачи" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_07_HW_Задачи/Z.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Менеджер контекста_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_30_HW_Декораторы" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_30_HW_Декораторы/Z1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z3_см. tasks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_28_L_Модуль Collections" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/Z4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_10_28_L_Модуль Collections\Z3_см. tasks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z3_tasks (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_30_HW_Декораторы" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_28_L_Модуль Collections" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_30_HW_Декораторы/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_10_28_L_Модуль Collections\Z3_tasks (2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,11 +275,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_21_L_КР" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_16_L_Декораторы_wraps/task4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_21_L_КР/ds.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tasks (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_PyCharm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_28_L_Модуль Collections" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_10_28_L_Модуль Collections\0_Archive\tasks (1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Z" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.Z1" />
-        <item itemvalue="Python.Z4" />
-        <item itemvalue="Python.task4" />
+        <item itemvalue="Python.ds" />
+        <item itemvalue="Python.Z3" />
+        <item itemvalue="Python.Менеджер контекста_2" />
+        <item itemvalue="Python.Z3_tasks (2)" />
+        <item itemvalue="Python.tasks (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +559,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760888057380</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="ДЗ 07.11.2025_v1">
+      <option name="closed" value="true" />
+      <created>1760898576193</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1760898576193</updated>
+    </task>
+    <task id="LOCAL-00030" summary="ДЗ 07.11.2025_v2">
+      <option name="closed" value="true" />
+      <created>1761054835529</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1761054835529</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,6 +610,8 @@
     <MESSAGE value="ДЗ 21.10.2025_v1" />
     <MESSAGE value="ДЗ 02.11.2025_v1" />
     <MESSAGE value="ДЗ 30.10.2025_v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 30.10.2025_v1" />
+    <MESSAGE value="ДЗ 07.11.2025_v1" />
+    <MESSAGE value="ДЗ 07.11.2025_v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 07.11.2025_v2" />
   </component>
 </project>
