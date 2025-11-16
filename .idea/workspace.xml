@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 13.11.2025_v1">
-      <change afterPath="$PROJECT_DIR$/2025_11_15_HW_/Car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_15_HW_/Road.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_15_HW_/Vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_15_HW_/Z.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 15.11.2025_v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +99,7 @@
     "Python.collections_counter.executor": "Run",
     "Python.collections_defaultdict.executor": "Run",
     "Python.collections_deque.executor": "Run",
+    "Python.demo.executor": "Run",
     "Python.ds.executor": "Run",
     "Python.f_dec++.executor": "Run",
     "Python.f_dec+.executor": "Run",
@@ -191,29 +186,7 @@
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Z2_v1_Генератор чётных чисел">
-    <configuration name="Z1_v5_Более продвинутый с классом-итератором" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_PyCharm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_HW_итератор next()" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_13_HW_итератор next()\Z1_v5_Более продвинутый с классом-итератором.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.demo">
     <configuration name="Z1_v6_Интерактивный с управлением через next()" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
@@ -302,13 +275,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_PyCharm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_15_HW_" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_15_HW_/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.Z2_v1_Генератор чётных чисел" />
         <item itemvalue="Python.Z2_v2" />
         <item itemvalue="Python.Z1_v7_Минималистичный с генератором" />
         <item itemvalue="Python.Z1_v6_Интерактивный с управлением через next()" />
-        <item itemvalue="Python.Z1_v5_Более продвинутый с классом-итератором" />
       </list>
     </recent_temporary>
   </component>
@@ -623,7 +618,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763309330896</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="ДЗ 15.11.2025_v1">
+      <option name="closed" value="true" />
+      <created>1763311513964</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1763311513964</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -638,7 +641,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rename" />
     <MESSAGE value="DZ2" />
     <MESSAGE value="DZ_2025_09_16" />
     <MESSAGE value="DZ_2025_09_16_" />
@@ -663,7 +665,8 @@
     <MESSAGE value="ДЗ 08.11.2025_v2" />
     <MESSAGE value="ДЗ 11.11.2025_v2" />
     <MESSAGE value="ДЗ 13.11.2025_v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 13.11.2025_v1" />
+    <MESSAGE value="ДЗ 15.11.2025_v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 15.11.2025_v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
