@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 11.11.2025_v2">
-      <change afterPath="$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z2_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/0_Archive/Z1_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/0_Archive/Z1_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/0_Archive/Z1_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z1_v4_Простой перебор с next() и циклом while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z1_v5_Более продвинутый с классом-итератором.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z1_v6_Интерактивный с управлением через next().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z1_v7_Минималистичный с генератором.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z2_v1_Генератор чётных чисел.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project_PyCharm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project_PyCharm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 13.11.2025_v1">
+      <change afterPath="$PROJECT_DIR$/2025_11_15_HW_/Car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_15_HW_/Road.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_15_HW_/Vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_15_HW_/Z.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_08_HW_Тестирование/0_Archive/Z2_v1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -615,7 +607,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763304872566</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="ДЗ 13.11.2025_v1">
+      <option name="closed" value="true" />
+      <created>1763309321068</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1763309321068</updated>
+    </task>
+    <task id="LOCAL-00037" summary="ДЗ 13.11.2025_v1">
+      <option name="closed" value="true" />
+      <created>1763309330896</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1763309330896</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -630,7 +638,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ДЗ№1" />
     <MESSAGE value="rename" />
     <MESSAGE value="DZ2" />
     <MESSAGE value="DZ_2025_09_16" />
@@ -655,7 +662,8 @@
     <MESSAGE value="ДЗ 11.11.2025_v1" />
     <MESSAGE value="ДЗ 08.11.2025_v2" />
     <MESSAGE value="ДЗ 11.11.2025_v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 11.11.2025_v2" />
+    <MESSAGE value="ДЗ 13.11.2025_v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 13.11.2025_v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
