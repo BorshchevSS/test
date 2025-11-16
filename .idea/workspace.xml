@@ -5,43 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 11.11.2025_v2">
-      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/tasks (2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Регулярные выражения/Teory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Регулярные выражения/Поиск электронного адреса.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Регулярные выражения/регулярное выражение python для поиска ip адресов.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/Z1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/Z3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/0_Archive/utils_old.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/report_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/Анализатор Лог-Файлов Веб-Сервера.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/генераторы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/генераторы_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/генераторы_3 генераторы списака, множества, словоря.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/генераторы_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/генераторы_5 Истощение генератора.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/итераторы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/итераторы_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/итераторы_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/0_Archive/utils_old.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/access.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/report_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/Анализатор Лог-Файлов Веб-Сервера.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/Генератор списков_Запись 2025-11-06 153612.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/auth_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/auth_view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/user_storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z2_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/0_Archive/Z1_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/0_Archive/Z1_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/0_Archive/Z1_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z1_v4_Простой перебор с next() и циклом while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z1_v5_Более продвинутый с классом-итератором.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z1_v6_Интерактивный с управлением через next().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z1_v7_Минималистичный с генератором.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z2_v1_Генератор чётных чисел.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Project_PyCharm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project_PyCharm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_08_HW_Тестирование/0_Archive/Z2_v1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,123 +57,132 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for pytest.test_add.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2025_09_11_ЧтениеДанных из XML.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2025_09_12_Чтение данных из excel_DispName.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2025_09_15_xml с newDispName.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Плейлист с сортировкой.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_Наследование, полиморфизм, инкапсуляция.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OOP.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Teory.executor&quot;: &quot;Run&quot;,
-    &quot;Python.UID.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1_L2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1_L2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1_L2_v2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1_deque.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z1_Система обработки заказов.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z2_defaultdict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3_.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3_cycle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3_см. tasks (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z3_см. tasks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z4_1_Пузырьковый метод сортировки(сравнение соседних элементов).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z_.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Z_римская_система_счисления.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chess_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classmethod.executor&quot;: &quot;Run&quot;,
-    &quot;Python.collections_.executor&quot;: &quot;Run&quot;,
-    &quot;Python.collections_counter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.collections_defaultdict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.collections_deque.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ds.executor&quot;: &quot;Run&quot;,
-    &quot;Python.f_dec++.executor&quot;: &quot;Run&quot;,
-    &quot;Python.f_dec+.executor&quot;: &quot;Run&quot;,
-    &quot;Python.f_dec.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gpt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.labyrinth.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.metrics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.no_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pytest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.restaurant.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shahmaty_v4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.smart_financial_management_system.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sort_play (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tasks (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.tasks (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_req.executor&quot;: &quot;Run&quot;,
-    &quot;Python.time.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user.executor&quot;: &quot;Run&quot;,
-    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
-    &quot;Python.visuallizers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wraps.executor&quot;: &quot;Run&quot;,
-    &quot;Python.z_class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.z_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Абстрактные классы.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Виртуальная фабрика роботов-художников.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Декорирование класса.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Инкапсуляция.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Картеж(список с неизменяемыми значениями).executor&quot;: &quot;Run&quot;,
-    &quot;Python.КэшированиеРезультатовФункции.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Магические методы, переопределение методов.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Менеджер контекста_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Множества_set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Поиск электронного адреса.executor&quot;: &quot;Run&quot;,
-    &quot;Python.СЭС.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Словари(Ключ_Значение) (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Словари.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Создание класса.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Создание класса2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Сортировка с помощью lambda функции.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Списковое включение.executor&quot;: &quot;Run&quot;,
-    &quot;Python.СписковоеВключение.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Спусковое включение.executor&quot;: &quot;Run&quot;,
-    &quot;Python.СтроковыеТипыДанных (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.СтроковыеТипыДанных.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Умный словарь.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Умный словарь_v2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Универсальный анализатор данных.executor&quot;: &quot;Run&quot;,
-    &quot;Python.генератор_5 Истощение генератра.executor&quot;: &quot;Run&quot;,
-    &quot;Python.генераторы.executor&quot;: &quot;Run&quot;,
-    &quot;Python.генераторы_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.генераторы_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.генераторы_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.инкапсуляция.executor&quot;: &quot;Run&quot;,
-    &quot;Python.итераторы.executor&quot;: &quot;Run&quot;,
-    &quot;Python.итераторы_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.итераторы_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.регулярное выражение python для поиска ip адресов.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/Project_PyCharm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for pytest.test_add.executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.2025_09_11_ЧтениеДанных из XML.executor": "Run",
+    "Python.2025_09_12_Чтение данных из excel_DispName.executor": "Run",
+    "Python.2025_09_15_xml с newDispName.executor": "Run",
+    "Python.3. Плейлист с сортировкой.executor": "Run",
+    "Python.3_Наследование, полиморфизм, инкапсуляция.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.OOP.executor": "Run",
+    "Python.Teory.executor": "Run",
+    "Python.UID.executor": "Run",
+    "Python.Z.executor": "Run",
+    "Python.Z1 (1).executor": "Run",
+    "Python.Z1.executor": "Run",
+    "Python.Z1_L2 (1).executor": "Run",
+    "Python.Z1_L2.executor": "Run",
+    "Python.Z1_L2_v2.executor": "Run",
+    "Python.Z1_deque.executor": "Run",
+    "Python.Z1_v1.executor": "Run",
+    "Python.Z1_v2.executor": "Run",
+    "Python.Z1_v3.executor": "Run",
+    "Python.Z1_v4.executor": "Run",
+    "Python.Z1_v5.executor": "Run",
+    "Python.Z1_v6.executor": "Run",
+    "Python.Z1_v7.executor": "Run",
+    "Python.Z1_Система обработки заказов.executor": "Run",
+    "Python.Z2 (1).executor": "Run",
+    "Python.Z2.executor": "Run",
+    "Python.Z2_defaultdict.executor": "Run",
+    "Python.Z2_v1_Генератор чётных чисел.executor": "Run",
+    "Python.Z2_v2.executor": "Run",
+    "Python.Z3 (1).executor": "Run",
+    "Python.Z3 (2).executor": "Run",
+    "Python.Z3.executor": "Run",
+    "Python.Z3_.executor": "Run",
+    "Python.Z3_cycle.executor": "Run",
+    "Python.Z3_см. tasks (1).executor": "Run",
+    "Python.Z3_см. tasks.executor": "Run",
+    "Python.Z4.executor": "Run",
+    "Python.Z4_1.executor": "Run",
+    "Python.Z4_1_Пузырьковый метод сортировки(сравнение соседних элементов).executor": "Run",
+    "Python.Z5.executor": "Run",
+    "Python.Z_.executor": "Run",
+    "Python.Z_римская_система_счисления.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.chess.executor": "Run",
+    "Python.chess_test.executor": "Run",
+    "Python.classmethod.executor": "Run",
+    "Python.collections_.executor": "Run",
+    "Python.collections_counter.executor": "Run",
+    "Python.collections_defaultdict.executor": "Run",
+    "Python.collections_deque.executor": "Run",
+    "Python.ds.executor": "Run",
+    "Python.f_dec++.executor": "Run",
+    "Python.f_dec+.executor": "Run",
+    "Python.f_dec.executor": "Run",
+    "Python.gpt.executor": "Run",
+    "Python.labyrinth.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.list_2.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.metrics.executor": "Run",
+    "Python.no_name.executor": "Run",
+    "Python.pytest.executor": "Run",
+    "Python.restaurant.executor": "Run",
+    "Python.shahmaty_v4.executor": "Run",
+    "Python.smart_financial_management_system.executor": "Run",
+    "Python.sort_play (1).executor": "Run",
+    "Python.task4.executor": "Run",
+    "Python.tasks (1).executor": "Run",
+    "Python.tasks (2).executor": "Run",
+    "Python.test (1).executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_req.executor": "Run",
+    "Python.time.executor": "Run",
+    "Python.user.executor": "Run",
+    "Python.utils.executor": "Run",
+    "Python.visuallizers.executor": "Run",
+    "Python.wraps.executor": "Run",
+    "Python.z_class.executor": "Run",
+    "Python.z_main.executor": "Run",
+    "Python.Абстрактные классы.executor": "Run",
+    "Python.Виртуальная фабрика роботов-художников.executor": "Run",
+    "Python.Декорирование класса.executor": "Run",
+    "Python.Инкапсуляция.executor": "Run",
+    "Python.Картеж(список с неизменяемыми значениями).executor": "Run",
+    "Python.КэшированиеРезультатовФункции.executor": "Run",
+    "Python.Магические методы, переопределение методов.executor": "Run",
+    "Python.Менеджер контекста_2.executor": "Run",
+    "Python.Множества_set.executor": "Run",
+    "Python.Поиск электронного адреса.executor": "Run",
+    "Python.СЭС.executor": "Run",
+    "Python.Словари(Ключ_Значение) (1).executor": "Run",
+    "Python.Словари.executor": "Run",
+    "Python.Создание класса.executor": "Run",
+    "Python.Создание класса2.executor": "Run",
+    "Python.Сортировка с помощью lambda функции.executor": "Run",
+    "Python.Списковое включение.executor": "Run",
+    "Python.СписковоеВключение.executor": "Run",
+    "Python.Спусковое включение.executor": "Run",
+    "Python.СтроковыеТипыДанных (1).executor": "Run",
+    "Python.СтроковыеТипыДанных.executor": "Run",
+    "Python.Умный словарь.executor": "Run",
+    "Python.Умный словарь_v2.executor": "Run",
+    "Python.Универсальный анализатор данных.executor": "Run",
+    "Python.генератор_5 Истощение генератра.executor": "Run",
+    "Python.генераторы.executor": "Run",
+    "Python.генераторы_2.executor": "Run",
+    "Python.генераторы_3.executor": "Run",
+    "Python.генераторы_4.executor": "Run",
+    "Python.инкапсуляция.executor": "Run",
+    "Python.итераторы.executor": "Run",
+    "Python.итераторы_2.executor": "Run",
+    "Python.итераторы_3.executor": "Run",
+    "Python.регулярное выражение python для поиска ip адресов.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Admin/OneDrive/Documents/Project_PyCharm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Documents\Project_PyCharm" />
@@ -207,15 +192,15 @@
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_18_L_Полиморфизм" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_13_HW_итератор next()\0_Archive" />
+      <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_08_HW_Тестирование\0_Archive" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы_генераторы" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server\0_Archive" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_30_L_Контекстный менеджер" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_28_L_Модуль Collections\0_Archive" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app">
-    <configuration name="Z3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Z2_v1_Генератор чётных чисел">
+    <configuration name="Z1_v5_Более продвинутый с классом-итератором" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_HW_итератор next()" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/Z3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_13_HW_итератор next()\Z1_v5_Более продвинутый с классом-итератором.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z1_v6_Интерактивный с управлением через next()" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_HW_итератор next()" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/app.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_13_HW_итератор next()\Z1_v6_Интерактивный с управлением через next().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z1_v7_Минималистичный с генератором" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_HW_итератор next()" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_13_HW_итератор next()\Z1_v7_Минималистичный с генератором.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z2_v1_Генератор чётных чисел" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_HW_итератор next()" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/user.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z2_v1_Генератор чётных чисел.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,7 +288,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="utils_old" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Z2_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_08_HW_Тестирование" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server\0_Archive\utils_old.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z2_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.user" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.utils_old" />
-        <item itemvalue="Python.Z3" />
+        <item itemvalue="Python.Z2_v1_Генератор чётных чисел" />
+        <item itemvalue="Python.Z2_v2" />
+        <item itemvalue="Python.Z1_v7_Минималистичный с генератором" />
+        <item itemvalue="Python.Z1_v6_Интерактивный с управлением через next()" />
+        <item itemvalue="Python.Z1_v5_Более продвинутый с классом-итератором" />
       </list>
     </recent_temporary>
   </component>
@@ -606,7 +591,31 @@
       <option name="project" value="LOCAL" />
       <updated>1761828916043</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="ДЗ 11.11.2025_v2">
+      <option name="closed" value="true" />
+      <created>1763304766905</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1763304766905</updated>
+    </task>
+    <task id="LOCAL-00034" summary="ДЗ 11.11.2025_v2">
+      <option name="closed" value="true" />
+      <created>1763304865028</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1763304865028</updated>
+    </task>
+    <task id="LOCAL-00035" summary="ДЗ 11.11.2025_v2">
+      <option name="closed" value="true" />
+      <created>1763304872566</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1763304872566</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -644,6 +653,7 @@
     <MESSAGE value="ДЗ 07.11.2025_v1" />
     <MESSAGE value="ДЗ 07.11.2025_v2" />
     <MESSAGE value="ДЗ 11.11.2025_v1" />
+    <MESSAGE value="ДЗ 08.11.2025_v2" />
     <MESSAGE value="ДЗ 11.11.2025_v2" />
     <option name="LAST_COMMIT_MESSAGE" value="ДЗ 11.11.2025_v2" />
   </component>
@@ -651,7 +661,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z2.py</url>
+          <url>file://$PROJECT_DIR$/2025_11_08_HW_Тестирование/0_Archive/Z2_v1.py</url>
           <line>19</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
