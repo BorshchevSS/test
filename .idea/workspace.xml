@@ -4,22 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 07.11.2025_v2">
-      <change afterPath="$PROJECT_DIR$/2025_10_21_L_КР/ds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_23_Библиотека pytest/pytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_23_Библиотека pytest/unittest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/Z1_deque.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/Z2_defaultdict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/Z3_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/collections_counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/collections_defaultdict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_28_L_Модуль Collections/collections_deque.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Менеджер контекста(управление открытием и закрытием файлов).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UID.py" afterDir="false" />
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 11.11.2025_v2">
+      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/tasks (2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Регулярные выражения/Teory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Регулярные выражения/Поиск электронного адреса.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_10_30_L_Регулярные выражения/регулярное выражение python для поиска ip адресов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/Z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/Z3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/0_Archive/utils_old.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/report_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/Анализатор Лог-Файлов Веб-Сервера.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/генераторы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/генераторы_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/генераторы_3 генераторы списака, множества, словоря.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/генераторы_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/генераторы_5 Истощение генератора.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/итераторы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/итераторы_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/итераторы_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/0_Archive/utils_old.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/access.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/report_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/Анализатор Лог-Файлов Веб-Сервера.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_04_L_итераторы_генераторы/log_server/Генератор списков_Запись 2025-11-06 153612.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/auth_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/auth_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/user_storage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_10_21_L_КР/СЭС.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_10_21_L_КР/СЭС.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +94,7 @@
     &quot;Python.3_Наследование, полиморфизм, инкапсуляция.executor&quot;: &quot;Run&quot;,
     &quot;Python.4.executor&quot;: &quot;Run&quot;,
     &quot;Python.OOP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teory.executor&quot;: &quot;Run&quot;,
     &quot;Python.UID.executor&quot;: &quot;Run&quot;,
     &quot;Python.Z.executor&quot;: &quot;Run&quot;,
     &quot;Python.Z1 (1).executor&quot;: &quot;Run&quot;,
@@ -94,8 +117,10 @@
     &quot;Python.Z4.executor&quot;: &quot;Run&quot;,
     &quot;Python.Z4_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Z4_1_Пузырьковый метод сортировки(сравнение соседних элементов).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Z5.executor&quot;: &quot;Run&quot;,
     &quot;Python.Z_.executor&quot;: &quot;Run&quot;,
     &quot;Python.Z_римская_система_счисления.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
     &quot;Python.chess.executor&quot;: &quot;Run&quot;,
     &quot;Python.chess_test.executor&quot;: &quot;Run&quot;,
     &quot;Python.classmethod.executor&quot;: &quot;Run&quot;,
@@ -126,6 +151,8 @@
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.test_req.executor&quot;: &quot;Run&quot;,
     &quot;Python.time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
     &quot;Python.visuallizers.executor&quot;: &quot;Run&quot;,
     &quot;Python.wraps.executor&quot;: &quot;Run&quot;,
     &quot;Python.z_class.executor&quot;: &quot;Run&quot;,
@@ -139,6 +166,7 @@
     &quot;Python.Магические методы, переопределение методов.executor&quot;: &quot;Run&quot;,
     &quot;Python.Менеджер контекста_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Множества_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Поиск электронного адреса.executor&quot;: &quot;Run&quot;,
     &quot;Python.СЭС.executor&quot;: &quot;Run&quot;,
     &quot;Python.Словари(Ключ_Значение) (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.Словари.executor&quot;: &quot;Run&quot;,
@@ -153,53 +181,40 @@
     &quot;Python.Умный словарь.executor&quot;: &quot;Run&quot;,
     &quot;Python.Умный словарь_v2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Универсальный анализатор данных.executor&quot;: &quot;Run&quot;,
+    &quot;Python.генератор_5 Истощение генератра.executor&quot;: &quot;Run&quot;,
+    &quot;Python.генераторы.executor&quot;: &quot;Run&quot;,
+    &quot;Python.генераторы_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.генераторы_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.генераторы_4.executor&quot;: &quot;Run&quot;,
     &quot;Python.инкапсуляция.executor&quot;: &quot;Run&quot;,
+    &quot;Python.итераторы.executor&quot;: &quot;Run&quot;,
+    &quot;Python.итераторы_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.итераторы_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.регулярное выражение python для поиска ip адресов.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/Project_PyCharm/2025_10_09_L_Декоратор&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/Project_PyCharm&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm" />
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_09_L_Декоратор" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_25_L_Абстрактные классы" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_18_L_Полиморфизм" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_11_РДУ_Редактирую названия ветвей в СМЗУ" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_16_L_OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы_генераторы" />
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server\0_Archive" />
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server" />
+      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_30_L_Контекстный менеджер" />
       <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_28_L_Модуль Collections\0_Archive" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_16_L_Декораторы_wraps" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_21_HW_Статические методы и методы класса\0_Archive" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_07_L\monitoring" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_23_HW_Файлы\0_Archive" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ds">
-    <configuration name="Менеджер контекста_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_PyCharm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Менеджер контекста_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.app">
     <configuration name="Z3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
@@ -209,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_30_L_Контекстный менеджер/Z3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/Z3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z3_см. tasks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,11 +246,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_28_L_Модуль Collections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_10_28_L_Модуль Collections\Z3_см. tasks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +259,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z3_tasks (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,11 +268,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_28_L_Модуль Collections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_10_28_L_Модуль Collections\Z3_tasks (2).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +281,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,11 +290,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_21_L_КР" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_10_21_L_КР/ds.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/user.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +303,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tasks (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="utils_old" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,11 +312,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_10_28_L_Модуль Collections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_04_L_итераторы и генераторы/log_server" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_10_28_L_Модуль Collections\0_Archive\tasks (1).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server\0_Archive\utils_old.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,11 +327,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ds" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.user" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.utils_old" />
         <item itemvalue="Python.Z3" />
-        <item itemvalue="Python.Менеджер контекста_2" />
-        <item itemvalue="Python.Z3_tasks (2)" />
-        <item itemvalue="Python.tasks (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -575,7 +590,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761054835529</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="ДЗ 11.11.2025_v1">
+      <option name="closed" value="true" />
+      <created>1761828770043</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1761828770043</updated>
+    </task>
+    <task id="LOCAL-00032" summary="ДЗ 11.11.2025_v2">
+      <option name="closed" value="true" />
+      <created>1761828916043</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1761828916043</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,6 +643,19 @@
     <MESSAGE value="ДЗ 30.10.2025_v1" />
     <MESSAGE value="ДЗ 07.11.2025_v1" />
     <MESSAGE value="ДЗ 07.11.2025_v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 07.11.2025_v2" />
+    <MESSAGE value="ДЗ 11.11.2025_v1" />
+    <MESSAGE value="ДЗ 11.11.2025_v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 11.11.2025_v2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z2.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
