@@ -17,7 +17,7 @@ d = {"a":5, "b":6} #dict Словарь это массив состоящий �
 # Ввод и вывод переменных
 name = input("Enter yoy name: ")
 age = int(input("Enter you age: "))
-age2 = float(input("Enter you age2: "))
+age2 = float(input("Enter you age2: ")) # TODO: Дописать
 print(name)
 print(type(name))
 print(age)

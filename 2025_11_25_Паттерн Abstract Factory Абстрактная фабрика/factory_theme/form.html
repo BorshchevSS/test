@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+    <body>
+        <form>
+            {% for item in components %}
+                {% if item.type == "title" %}
+                    <h2>{{ item.label }}</h2>
+                {% elif item.type == "input" %}
+                    {% if "materialize.min.css" in css_link %}
+                        <div>
+                            <input type="text" id="{{ item.label }}">
+                            <label for="{{ item.label }}">{{ item.label }}</label>
+                        </div>
+                    {% else %}
+                        <div>
+                            <label for="{{ item.label }}">{{ item.label }}</label>
+                            <input type='{{ "password" if "Пароль" in item.label else "text" }}'
+                                    class="{{ item.css_class }}"
+                                   id="{{ item.label }}">
+                        </div>
+                    {% endif %)
+                {% elif item.type == "submit_button" %}
+                    <button type="submit" class="{{ item.css }}">{{ item.label }}</button>
+                {% endif %)
+            {% endfor %}
+        </form>
+    </body>
+</html>

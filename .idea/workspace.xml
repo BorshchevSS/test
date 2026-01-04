@@ -4,7 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 15.11.2025_v1" />
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 15.11.2025_v2">
+      <change afterPath="$PROJECT_DIR$/2025_11_18_L_Metaclasses Метоклассы/theory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_18_L_Metaclasses Метоклассы/Префикс_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_18_L_Паттерн ADAPTER/ADAPTER.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_18_L_Паттерн ADAPTER/Adapter_theory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_20_SINGLETON_Метоклассы/Z1_Singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_20_SINGLETON_Метоклассы/Z1_Метаклассы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_20_SINGLETON_Метоклассы/Z2_Метаклассы_Серелизация (перевод из одного класса в другой).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_20_SINGLETON_Метоклассы/singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/AbstractFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/factory_theme/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/factory_theme/form_renderer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/factory_theme/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/theory_abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/theory_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_27_Асинхронность/Z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_27_Асинхронность/theory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_11_27_Асинхронность/Имитация запроса к IP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_04_L/plan_z/category_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_04_L/plan_z/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_04_L/plan_z/file_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_04_L/plan_z/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_04_L/plan_z/task_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_04_L/throry_proc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_04_L/Писк.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_11_L_SQL/d.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_11_L_SQL/theory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_23_L_http-server/http-server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/static/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/templates/author_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/templates/authors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/templates/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_25_L/test/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_25_L/test/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025_12_25_L/Мини-Библиотека.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026_01_13_HW/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026_01_13_HW/queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026_01_13_HW/seed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/ADAPTER.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/ADAPTER.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/MVC 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/MVC 1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/auth_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/auth_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/auth_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/auth_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/user_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/user_storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/Запуск программы.docx" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/Запуск программы.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/auth_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/auth_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/auth_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/auth_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/user_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/user_storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/Запуск программы.docx" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/Запуск программы.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/log_server.zip" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/log_server.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +72,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -45,6 +105,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for pytest.test_add.executor": "Run",
     "Python.1.executor": "Run",
@@ -55,6 +116,8 @@
     "Python.3. Плейлист с сортировкой.executor": "Run",
     "Python.3_Наследование, полиморфизм, инкапсуляция.executor": "Run",
     "Python.4.executor": "Run",
+    "Python.ADAPTER.executor": "Run",
+    "Python.Adapter.executor": "Run",
     "Python.OOP.executor": "Run",
     "Python.Teory.executor": "Run",
     "Python.UID.executor": "Run",
@@ -64,7 +127,9 @@
     "Python.Z1_L2 (1).executor": "Run",
     "Python.Z1_L2.executor": "Run",
     "Python.Z1_L2_v2.executor": "Run",
+    "Python.Z1_Singleton.executor": "Run",
     "Python.Z1_deque.executor": "Run",
+    "Python.Z1_singleton_отПреподавателя.executor": "Run",
     "Python.Z1_v1.executor": "Run",
     "Python.Z1_v2.executor": "Run",
     "Python.Z1_v3.executor": "Run",
@@ -78,6 +143,8 @@
     "Python.Z2_defaultdict.executor": "Run",
     "Python.Z2_v1_Генератор чётных чисел.executor": "Run",
     "Python.Z2_v2.executor": "Run",
+    "Python.Z2_Метаклассы_Серелизация (перевод из одного класса в другой) (1).executor": "Run",
+    "Python.Z2_Серелизация (перевод из одного класса в другой).executor": "Run",
     "Python.Z3 (1).executor": "Run",
     "Python.Z3 (2).executor": "Run",
     "Python.Z3.executor": "Run",
@@ -105,23 +172,36 @@
     "Python.f_dec+.executor": "Run",
     "Python.f_dec.executor": "Run",
     "Python.gpt.executor": "Run",
+    "Python.http-server.executor": "Run",
     "Python.labyrinth.executor": "Run",
     "Python.list.executor": "Run",
     "Python.list_2.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.manager.executor": "Run",
     "Python.metrics.executor": "Run",
+    "Python.models.executor": "Run",
     "Python.no_name.executor": "Run",
     "Python.pytest.executor": "Run",
+    "Python.queries.executor": "Run",
     "Python.restaurant.executor": "Run",
+    "Python.seed.executor": "Run",
+    "Python.server.executor": "Run",
     "Python.shahmaty_v4.executor": "Run",
+    "Python.singleton.executor": "Run",
     "Python.smart_financial_management_system.executor": "Run",
     "Python.sort_play (1).executor": "Run",
+    "Python.sqlalchem.executor": "Run",
     "Python.task4.executor": "Run",
     "Python.tasks (1).executor": "Run",
     "Python.tasks (2).executor": "Run",
     "Python.test (1).executor": "Run",
     "Python.test.executor": "Run",
     "Python.test_req.executor": "Run",
+    "Python.the (1).executor": "Run",
+    "Python.the.executor": "Run",
+    "Python.theory (1).executor": "Run",
+    "Python.theory.executor": "Run",
+    "Python.theory_builder.executor": "Run",
     "Python.time.executor": "Run",
     "Python.user.executor": "Run",
     "Python.utils.executor": "Run",
@@ -132,13 +212,16 @@
     "Python.Абстрактные классы.executor": "Run",
     "Python.Виртуальная фабрика роботов-художников.executor": "Run",
     "Python.Декорирование класса.executor": "Run",
+    "Python.Имитация запроса к IP.executor": "Run",
     "Python.Инкапсуляция.executor": "Run",
     "Python.Картеж(список с неизменяемыми значениями).executor": "Run",
     "Python.КэшированиеРезультатовФункции.executor": "Run",
     "Python.Магические методы, переопределение методов.executor": "Run",
     "Python.Менеджер контекста_2.executor": "Run",
     "Python.Множества_set.executor": "Run",
+    "Python.Писк.executor": "Run",
     "Python.Поиск электронного адреса.executor": "Run",
+    "Python.Префикс.executor": "Run",
     "Python.СЭС.executor": "Run",
     "Python.Словари(Ключ_Значение) (1).executor": "Run",
     "Python.Словари.executor": "Run",
@@ -153,6 +236,7 @@
     "Python.Умный словарь.executor": "Run",
     "Python.Умный словарь_v2.executor": "Run",
     "Python.Универсальный анализатор данных.executor": "Run",
+    "Python.Ц.executor": "Run",
     "Python.генератор_5 Истощение генератра.executor": "Run",
     "Python.генераторы.executor": "Run",
     "Python.генераторы_2.executor": "Run",
@@ -167,27 +251,27 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Admin/OneDrive/Documents/Project_PyCharm"
+    "last_opened_file_path": "C:/Users/Admin/OneDrive/Documents/Project_PyCharm/2025_12_25_L/library"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_10_09_L_Декоратор" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_25_L_Абстрактные классы" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_09_18_L_Полиморфизм" />
+      <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_12_25_L\library" />
+      <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_12_25_L" />
+      <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_12_16_L_SQL\Новая папка" />
+      <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_12_11_L_SQL" />
+      <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_25_Паттерн Abstract Factory Абстрактная фабрика" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_12_18_L_SQL_sqlalchemy" />
+      <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_12_23_L_" />
+      <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_18_L_Metaclasses Метоклассы" />
       <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_13_HW_итератор next()\0_Archive" />
       <recent name="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_08_HW_Тестирование\0_Archive" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы_генераторы" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server\0_Archive" />
-      <recent name="C:\Users\Admin\Documents\Project_PyCharm\2025_11_04_L_итераторы и генераторы\log_server" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo">
-    <configuration name="Z1_v6_Интерактивный с управлением через next()" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.queries">
+    <configuration name="http-server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,11 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_HW_итератор next()" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_12_23_L_http-server" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_13_HW_итератор next()\Z1_v6_Интерактивный с управлением через next().py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_12_23_L_http-server/http-server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z1_v7_Минималистичный с генератором" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_HW_итератор next()" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2026_01_13_HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\OneDrive\Documents\Project_PyCharm\2025_11_13_HW_итератор next()\Z1_v7_Минималистичный с генератором.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2026_01_13_HW/models.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z2_v1_Генератор чётных чисел" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="queries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,11 +324,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_13_HW_итератор next()" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2026_01_13_HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_13_HW_итератор next()/Z2_v1_Генератор чётных чисел.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2026_01_13_HW/queries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +337,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Z2_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="seed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,11 +346,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_08_HW_Тестирование" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2026_01_13_HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_08_HW_Тестирование/Z2_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2026_01_13_HW/seed.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +359,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_PyCharm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,11 +368,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_11_15_HW_" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025_12_25_L/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_11_15_HW_/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025_12_25_L/test/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,11 +383,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python.Z2_v1_Генератор чётных чисел" />
-        <item itemvalue="Python.Z2_v2" />
-        <item itemvalue="Python.Z1_v7_Минималистичный с генератором" />
-        <item itemvalue="Python.Z1_v6_Интерактивный с управлением через next()" />
+        <item itemvalue="Python.queries" />
+        <item itemvalue="Python.seed" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.http-server" />
       </list>
     </recent_temporary>
   </component>
@@ -626,7 +710,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763311513964</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="ДЗ 15.11.2025_v2">
+      <option name="closed" value="true" />
+      <created>1763311745509</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1763311745510</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -641,7 +733,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DZ2" />
     <MESSAGE value="DZ_2025_09_16" />
     <MESSAGE value="DZ_2025_09_16_" />
     <MESSAGE value="DZ_2025_09_23" />
@@ -666,7 +757,8 @@
     <MESSAGE value="ДЗ 11.11.2025_v2" />
     <MESSAGE value="ДЗ 13.11.2025_v1" />
     <MESSAGE value="ДЗ 15.11.2025_v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 15.11.2025_v1" />
+    <MESSAGE value="ДЗ 15.11.2025_v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 15.11.2025_v2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

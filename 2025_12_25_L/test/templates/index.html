@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <body>
+        <h1>Простой счетчик</h1>
+        <div id="counter-value">{{ count }}</div>
+        <button id="incr">Увиличить</button>
+        <script>
+            const counterValueElement = document.getElementById('counter-value');
+            const incrBtn = document.getElementById('incr');
+
+            async function incrementCounter() {
+                try{
+                    const response = await fetch('/increment', {
+                        method: 'POST',
+                        headers: {'Content-Type': "application/json"}
+                    });
+                    const data = await response.json();
+                    if (data.new_count !== undefined){
+                        counterValueElement.textContent = data.new_count;
+                        console.log("Счетчик обновлен", data.new_count);
+                    }
+                }catch (error){
+                    console.error('Error', error);
+                }
+            }
+            incrBtn.addEventListener("click", incrementCounter)
+        </script>
+    </body>
+</html>
