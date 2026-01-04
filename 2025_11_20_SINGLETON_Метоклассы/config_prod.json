@@ -1,0 +1,6 @@
+{
+    "DEBUG_MODE": false,
+    "API_URL": "http://prod.api.com",
+    "TIMEOUT": 30,
+    "LOG_LEVEL": "WARNING"
+}
