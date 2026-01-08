@@ -4,66 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 15.11.2025_v2">
-      <change afterPath="$PROJECT_DIR$/2025_11_18_L_Metaclasses Метоклассы/theory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_18_L_Metaclasses Метоклассы/Префикс_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_18_L_Паттерн ADAPTER/ADAPTER.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_18_L_Паттерн ADAPTER/Adapter_theory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_20_SINGLETON_Метоклассы/Z1_Singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_20_SINGLETON_Метоклассы/Z1_Метаклассы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_20_SINGLETON_Метоклассы/Z2_Метаклассы_Серелизация (перевод из одного класса в другой).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_20_SINGLETON_Метоклассы/singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/AbstractFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/factory_theme/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/factory_theme/form_renderer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/factory_theme/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/theory_abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_25_Паттерн Abstract Factory Абстрактная фабрика/theory_builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_27_Асинхронность/Z1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_27_Асинхронность/theory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_11_27_Асинхронность/Имитация запроса к IP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_04_L/plan_z/category_analyzer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_04_L/plan_z/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_04_L/plan_z/file_monitor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_04_L/plan_z/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_04_L/plan_z/task_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_04_L/throry_proc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_04_L/Писк.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_11_L_SQL/d.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_11_L_SQL/theory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_23_L_http-server/http-server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/static/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/templates/author_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/templates/authors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_25_L/library/templates/book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_25_L/test/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_25_L/test/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025_12_25_L/Мини-Библиотека.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026_01_13_HW/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026_01_13_HW/queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026_01_13_HW/seed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/ADAPTER.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/ADAPTER.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/MVC 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/MVC 1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/auth_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/auth_controller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/auth_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/auth_view.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/user_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/user_storage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system/Запуск программы.docx" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system/Запуск программы.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/auth_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/auth_controller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/auth_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/auth_view.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/user_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/user_storage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/auth_system_от преподавателя/Запуск программы.docx" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/auth_system_от преподавателя/Запуск программы.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025_11_13_Патерны MVС и ADAPTER/log_server.zip" beforeDir="false" afterPath="$PROJECT_DIR$/2025_11_13_L_Патерны MVС и ADAPTER/log_server.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_.py" afterDir="false" />
-    </list>
+    <list default="true" id="107d35ae-4dca-4229-b0ad-12e2d668c063" name="Changes" comment="ДЗ 04.01.2026_v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -718,7 +659,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763311745510</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="ДЗ 15.11.2025_v2">
+      <option name="closed" value="true" />
+      <created>1767508263479</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1767508263479</updated>
+    </task>
+    <task id="LOCAL-00041" summary="ДЗ 04.01.2026_v1">
+      <option name="closed" value="true" />
+      <created>1767508291723</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1767508291723</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -733,7 +690,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DZ_2025_09_16" />
     <MESSAGE value="DZ_2025_09_16_" />
     <MESSAGE value="DZ_2025_09_23" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
@@ -758,7 +714,8 @@
     <MESSAGE value="ДЗ 13.11.2025_v1" />
     <MESSAGE value="ДЗ 15.11.2025_v1" />
     <MESSAGE value="ДЗ 15.11.2025_v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 15.11.2025_v2" />
+    <MESSAGE value="ДЗ 04.01.2026_v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 04.01.2026_v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

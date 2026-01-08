@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="БД.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1770"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="Teachers" custom_title="0" dock_id="1" table="4,8:mainTeachers"/><dock_state state="000000ff00000000fd00000001000000020000052c000001b0fc0100000001fb000000160064006f0063006b00420072006f007700730065003101000000000000052c0000010200ffffff0000021b0000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Curators" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="23"/><column index="2" value="62"/><column index="3" value="78"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Teachers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="23"/><column index="2" value="78"/><column index="3" value="70"/><column index="4" value="54"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">-- 1) Вывести список всех групп (их названия) вместе с названиями кафедр
+SELECT g.Name AS 'Название группы', 
+       d.Name AS 'Название кафедры'
+FROM Groups g
+JOIN Departments d ON g.DepartmentId = d.Id
+ORDER BY d.Name, g.Name;
+
+-- 2) Вывести список всех лекций вместе с названием предмета и фамилией преподавателя
+SELECT l.LectureRoom AS 'Аудитория', 
+       l.Id AS 'ID лекции',
+       s.Name AS 'Название предмета',
+       t.Surname AS 'Фамилия преподавателя'
+FROM Lectures l
+JOIN Subjects s ON l.SubjectId = s.Id
+JOIN Teachers t ON l.TeacherId = t.Id
+ORDER BY s.Name;
+
+-- 3) Найти всех кураторов, которые не прикреплены ни к одной группе
+SELECT c.Name AS 'Имя', 
+       c.Surname AS 'Фамилия'
+FROM Curators c
+LEFT JOIN GroupsCurators gc ON c.Id = gc.CuratorId
+WHERE gc.CuratorId IS NULL;
+
+-- 4) Вывести полную информацию о группах
+SELECT g.Name AS 'Название группы',
+       g.Year AS 'Год обучения',
+       d.Name AS 'Название кафедры',
+       f.Name AS 'Название факультета'
+FROM Groups g
+JOIN Departments d ON g.DepartmentId = d.Id
+JOIN Faculties f ON d.FacultyId = f.Id;
+
+-- 5) Вывести названия всех групп, которые относятся к кафедрам с финансированием больше 170 000
+SELECT g.Name AS 'Название группы',
+       d.Financing AS 'Финансирование кафедры'
+FROM Groups g
+JOIN Departments d ON g.DepartmentId = d.Id
+WHERE d.Financing &gt; 170000;
+
+-- 6) Для каждого факультета посчитать общее количество кафедр на нем
+SELECT f.Name AS 'Название факультета',
+       COUNT(d.Id) AS 'Количество кафедр'
+FROM Faculties f
+LEFT JOIN Departments d ON f.Id = d.FacultyId
+GROUP BY f.Id, f.Name
+ORDER BY COUNT(d.Id) DESC;
+
+-- 7) Вывести имена и фамилии всех кураторов и названия групп, за которые они отвечают
+SELECT c.Name AS 'Имя куратора',
+       c.Surname AS 'Фамилия куратора',
+       g.Name AS 'Название группы'
+FROM Curators c
+LEFT JOIN GroupsCurators gc ON c.Id = gc.CuratorId
+LEFT JOIN Groups g ON gc.GroupId = g.Id;
+
+-- 8) Вывести расписание для группы 'CS-101'
+SELECT l.LectureRoom AS 'Аудитория',
+       s.Name AS 'Название предмета',
+       l.Id AS 'Время (ID лекции)'
+FROM Groups g
+JOIN GroupsLectures gl ON g.Id = gl.GroupId
+JOIN Lectures l ON gl.LectureId = l.Id
+JOIN Subjects s ON l.SubjectId = s.Id
+WHERE g.Name = 'CS-101'
+ORDER BY l.Id;
+
+-- 9) Найти преподавателя с самой высокой зарплатой и перечень предметов, которые он ведет
+SELECT t.Name AS 'Имя преподавателя',
+       t.Surname AS 'Фамилия преподавателя',
+       t.Salary AS 'Зарплата',
+       s.Name AS 'Предмет'
+FROM Teachers t
+JOIN Lectures l ON t.Id = l.TeacherId
+JOIN Subjects s ON l.SubjectId = s.Id
+WHERE t.Salary = (SELECT MAX(Salary) FROM Teachers)
+ORDER BY s.Name;</sql><current_tab id="0"/></tab_sql></sqlb_project>
